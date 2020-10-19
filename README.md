@@ -1,2 +1,2 @@
-# SQL
+# General info
 my SQL homework
